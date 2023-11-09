@@ -143,7 +143,7 @@ cartButton.onclick = () => {
     }
   }
 
-  // console.log(
+   console.log
     text += "The total amount is " + finalDollars + "$ and " + finalCents + " cents"
   
 };
